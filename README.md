@@ -16,8 +16,8 @@ A Streamlit web application that allows users to upload images, automatically re
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/image-processor-x
-cd image-processor-x
+git clone https://github.com/anvay0209/WebApplication
+cd WebApplication
 ```
 
 2. Install dependencies:
